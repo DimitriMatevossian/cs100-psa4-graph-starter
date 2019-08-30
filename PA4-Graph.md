@@ -55,13 +55,6 @@ Files to test your code:
 7. `refpathfinder` - Solution executable that implements Pathfinder
 8. `refmovietraveler` - Solution executable that implements Movietraveler
 
-The following text file are provided for extra credit inputs:
-
-1. `ucsdxy.txt`
-2. `ucsdpairs.txt`
-3. `cityxy.txt`
-4. `citypairs.txt`
-
 ### Important Notes about imdb_2019.tsv
 
 We have provided you a tab-separated file that contains the majority of actors/actresses found in IMDb and the movies they have played in. Specifically, the file looks like this ("TAB" denotes a single tab character):
