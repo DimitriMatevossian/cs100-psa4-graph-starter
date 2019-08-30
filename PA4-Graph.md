@@ -55,6 +55,8 @@ Files to test your code:
 7. `refpathfinder` - Solution executable that implements Pathfinder
 8. `refmovietraveler` - Solution executable that implements Movietraveler
 
+The files above can be found in the following directory `/home/linux/ieng6/cs100s219/public/pa4_ref`
+
 ### Important Notes about imdb_2019.tsv
 
 We have provided you a tab-separated file that contains the majority of actors/actresses found in IMDb and the movies they have played in. Specifically, the file looks like this ("TAB" denotes a single tab character):
